@@ -1,5 +1,6 @@
 # Chargium - Electric Charging Station Locator
 Chargium is a project developed as part of the TechLabs London "Digital Shaper Program" in the Summer of 2021. The aim of this project is to provide users with a solution to identify electric charging stations during their journeys, addressing the common problem of navigating to charging stations without significantly extending travel time.
+[Chargium Article](https://medium.com/@london_6354/chargium-e0d7e91aa198)
 
 ## Overview
 With the increasing number of electric vehicles and charging points in the UK, Chargium offers a practical way for electric car users to find charging stations conveniently. The project utilizes data from the openchargemap website, providing a comprehensive dataset of charging station locations.
